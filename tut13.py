@@ -1,4 +1,4 @@
-# ************ EXERCISE **************
+# ************ EXERCISE ******
 # Given a name, return a string with the message:
 name = "talib"
 
@@ -23,5 +23,3 @@ name = "talib"
 
 
 
-
-print(Greet(name))

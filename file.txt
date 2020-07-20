@@ -1,0 +1,8 @@
+file opening modes:- 
+'r' => Open a File for reading (default)
+'w' => Open File for writing and create new file if file does not exist
+'a' => Open a File for appending
+'x' => Open File for exclusive creation
+'t' => Opens in text mode.
+'b' => Opens in binary mode.
+'+' => Open File for updating (reading and writing)

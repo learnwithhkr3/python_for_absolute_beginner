@@ -1,7 +1,15 @@
 f = open('file.txt', 'r')
 
 # print(f)
-for data in f:
-    print(data)
+# for data in f:
+#     print(data)
 
-f.close()
+# print(f.readlines())
+
+# print(f.readline(3))
+# print(f.readline())
+
+print("1",f.read(200))
+
+print("2",f.read(200))
+f.close() 

@@ -32,4 +32,3 @@ def print_function(*args, **kwargs):
 
 
 print_function("ajay", firstname="hkr", lastname="hasan")
-
